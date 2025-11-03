@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generation Studio",
+  "description": "A powerful tool to generate high-quality images from text prompts using Google's Gemini API. Customize aspect ratios and bring your creative visions to life.",
+  "requestFramePermissions": []
+}
